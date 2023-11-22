@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "518956116146",
+    "firebase_url": "https://pablitomiamor-1e857-default-rtdb.firebaseio.com",
+    "project_id": "pablitomiamor-1e857",
+    "storage_bucket": "pablitomiamor-1e857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518956116146:android:0b5bef911cabd14fab01ab",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbd7ER4v5z8KtINxBKSNKUYWhCcHLAjuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
